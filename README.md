@@ -3,9 +3,9 @@
 ## Introdução 
 Olá pessoas ✌
 
-Esse repositório foi criado para commitar os exerciicios referentes a Sprint <b>04</b>.
+Esse repositório foi criado para commitar os exercícios referentes a Sprint <b>04</b>.
 
-Dividido em duas branches, a <b>MAIN</b> que é a principal e a <b>DEVELOP</b> que vou commitar os exercicios diáriamente. 
+Dividido em duas branches, a <b>MAIN</b> que é a principal e a <b>DEVELOP</b> que vou commitar os exercícios diáriamente. 
 
 
 ## Objetivo da SPRINT 
@@ -23,6 +23,7 @@ Dividido em duas branches, a <b>MAIN</b> que é a principal e a <b>DEVELOP</b> q
 -  JavaScript 
 -  GIT
 -  Vscode
+
 
 ## Direitos Autorais 
 
