@@ -28,7 +28,7 @@ Dividido em duas branches, a <b>MAIN</b> que é a principal e a <b>DEVELOP</b> q
 
  - COMPASS UOL 
 
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/969607335901298801/1001564937216327729/UOLPNG.png">
 </div>
 
  
