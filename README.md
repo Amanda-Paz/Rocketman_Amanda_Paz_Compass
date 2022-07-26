@@ -1,6 +1,8 @@
 # Rocketman_Amanda_Paz_Compass
 
 ## Introdução 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Amanda-Paz/Rocketman_Amanda_Paz_Compass/blob/main/LICENSE) 
+
 Olá pessoas ✌
 
 Esse repositório foi criado para commitar os exercícios referentes a Sprint <b>04</b>.
