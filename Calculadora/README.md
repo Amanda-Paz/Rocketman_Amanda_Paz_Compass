@@ -38,7 +38,7 @@ Pré-requisitos: npm
  Após abrir o código no Vscode. 
 
  - Clicar em Calculadora.js
- - Caso queira fazer o teste em apenas uma função incluit o .only  logo após o it. 
+ - Caso queira fazer o teste em apenas uma função incluir o .only logo após o it. 
  - Executar o npm test no terminal 
 ```
 
