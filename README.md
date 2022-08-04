@@ -11,7 +11,7 @@ Dividido em duas branches, a <b>MAIN</b> que é a principal e a <b>DEVELOP</b> q
 
 
 ## Objetivo da SPRINT 
-<i>Aprender sobre</i>: 
+<i>Vamos aprender e desenvolver</i>: 
 
 - Sistema GIT para versionamento de arquivos.
 - Plataforma e ferramentas GitHub.
@@ -19,17 +19,30 @@ Dividido em duas branches, a <b>MAIN</b> que é a principal e a <b>DEVELOP</b> q
 - KOANS JS - Aprendizado sobre refatoração de testes automatizados.
 - TDD - Test Driven Development ou Desenvolvimento Guiado por Testes
 - Bibliotecas como Mocha e Chai.
+- [Exercicios JavaScript](https://github.com/Amanda-Paz/Rocketman_Amanda_Paz_Compass/tree/Develop)
+- Desenvolver uma Calculadora
 
-## Programas e linguagens utilizadas💻: 
+## Programas e Linguagens💻: 
 
--  JavaScript 
--  GIT
--  Vscode
+-  [Doc.JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
+-  [GIT](https://git-scm.com/)
+-  [Vscode](https://code.visualstudio.com/)
+-  [Chai](https://www.chaijs.com/)
+-  [Mocha](https://mochajs.org/)
+-  [Node](https://nodejs.org/en/)
+
+<i> Aplicado o conceito <b>TDD</b> Desenvolvimento Orientado por Testes <b>(Test Driven Development)</b></i>
+
+## Autora:
+
+[Amanda Paz](https://www.linkedin.com/in/amanda-cristina-paz-4ba90517a/)
 
 
-## Direitos Autorais 
+## Créditos: 
+ - COMPASS UOL
+ - Turma <b> 04 </b> 
 
- - COMPASS UOL 
+<i>obrigada pelo apoio e ajuda nos exercicios</i> 
 
 <img align="right" alt="Compass-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/969607335901298801/1001567674767257711/Sem_Titulo-2.png">
 </div>
