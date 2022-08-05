@@ -29,23 +29,47 @@ it ('Deve somar -4 e -5 resultando em 9', () => {
 
     expect(resultado).to.be.eq(-9)
 
+})
+
+it  ('Deve somar 0 e 1 resultando em 1', () => {
+
+   let  resultado = Calculadora.soma(0,1)
+
+   expect(resultado).to.be.eq(1)
+
 })  
 
-it ('Deve somar 30 e 25 resultando em 55 (ERRO)', () => {
+it  ('Deve somar 0 e 1 resultando em 1', () => {
+
+   let  resultado = Calculadora.soma(0,1)
+
+   expect(resultado).to.be.eq(1)
+
+})  
+ // com erro
+it  ('Deve somar 30 e 25 resultando em 55 (ERRO)', () => {
 
     let  resultado = Calculadora.soma(30,25)
 
     expect(resultado).to.be.eq(55).and.to.be.a ('string')
-               // com erro
+             
 }) 
 
-it  ('Deve somar 30 e 25 resultando em 55', () => {
+it ('Deve somar 30 e -vazio- resultando em 55 (ERRO)', () => {
 
-    let  resultado = Calculadora.soma(30,25)
+    let  resultado = Calculadora.soma(30,' ' )
 
-    expect(resultado).to.be.eq(55).and.to.be.a ('number')
+    expect(resultado).to.be.eq(55)
                
 }) 
+
+it  ('Deve somar -vazio- e 1 resultando em (ERRO)', () => {
+
+   let  resultado = Calculadora.soma(' ' ,1)
+
+   expect(resultado).to.be.eq(1)
+
+})  
 
 })
 
@@ -62,13 +86,7 @@ describe ('Testes de subtração', () => {
   
 })  
 
-it ('Deve subtrair 0 de 5 resultando em 5 (ERRO)', () => {
-
-    let  resultado = Calculadora.sub(0,5)
-             
-    expect(resultado).to.be.eq(5).and.to.be.a('string')
-
-})  
+ 
 
 it ('Deve subtrair 10 de 100 resultando em 90', () => {
 
@@ -93,6 +111,33 @@ it ('Deve subtrair 1500 de 2000 resultando em 500', () => {
 
 
 })
+
+it ('Deve subtrair 0 de -5 resultando em 5 (ERRO)', () => {
+
+   let  resultado = Calculadora.sub(0,5)
+            
+   expect(resultado).to.be.eq(-5)
+
+}) 
+it ('Deve subtrair 0 de 0 resultando em 0 ', () => {
+
+   let  resultado = Calculadora.sub(0,0)
+            
+   expect(resultado).to.be.eq(0)
+
+}) 
+
+
+it ('Deve subtrair 0 de 5 resultando em 5 (ERRO)', () => {
+
+   let  resultado = Calculadora.sub(0,5)
+            
+   expect(resultado).to.be.eq(5).and.to.be.a('string')
+
+}) 
+
+
+
 })
 
 // DIVISÃO //
@@ -226,9 +271,21 @@ describe ('Testes de Raiz Quadrada ', () => {
         expect(resultado).to.be.eq(2)
      })  
 
+     it ('Deve encontrar a raiz quadrada de - 9 que é (ERRO)', () => {
 
+      let  resultado = Calculadora.raiz(-9)
 
+      expect(resultado).to.be.eq(3)
+   })  
 
+   it ('Deve encontrar a raiz quadrada de -vazio- que é (ERRO)', () => {
+
+      let  resultado = Calculadora.raiz( )
+
+      expect(resultado).to.be.eq( )
+   })  
+
+ 
 })
 
 
@@ -270,6 +327,7 @@ describe ('Testes de Raiz Quadrada ', () => {
  
         expect(resultado).to.be.eq(99)
      })  
+     
 
 
 })
@@ -317,4 +375,4 @@ describe ('Testes de Raiz Quadrada ', () => {
 })
 
 
-//
+//  // 
