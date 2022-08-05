@@ -20,7 +20,7 @@ Dividido em duas branches, a <b>MAIN</b> que é a principal e a <b>DEVELOP</b> q
 - TDD - Test Driven Development ou Desenvolvimento Guiado por Testes
 - Bibliotecas como Mocha e Chai.
 - [Exercicios JavaScript](https://github.com/Amanda-Paz/Rocketman_Amanda_Paz_Compass/tree/Develop)
-- Desenvolver uma Calculadora
+- [Desenvolver uma Calculadora](https://github.com/Amanda-Paz/Rocketman_Amanda_Paz_Compass/tree/main/Calculadora)
 
 ## Programas e Linguagens💻: 
 
