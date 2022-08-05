@@ -15,8 +15,10 @@ Foram criadas as seguintes funções:
  - Porcentagem
 
 # Testes
+- Foram feitos <b>42</b> testes. 
 
-Em cada método foram feitos 5 testes onde um pelo menos apresentará um erro. 
+
+![TESTE](https://media.discordapp.net/attachments/969607335901298801/1005132573590179850/kik.png?width=315&height=674)
 
 
  ## Execução da Calculadora 
